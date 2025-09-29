@@ -1,0 +1,14 @@
+C:\Users\facei\example\src\MMO RPG\bin\Debug\net8.0\MMO RPG.exe
+C:\Users\facei\example\src\MMO RPG\bin\Debug\net8.0\MMO RPG.deps.json
+C:\Users\facei\example\src\MMO RPG\bin\Debug\net8.0\MMO RPG.runtimeconfig.json
+C:\Users\facei\example\src\MMO RPG\bin\Debug\net8.0\MMO RPG.dll
+C:\Users\facei\example\src\MMO RPG\bin\Debug\net8.0\MMO RPG.pdb
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.AssemblyInfoInputs.cache
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.AssemblyInfo.cs
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.csproj.CoreCompileInputs.cache
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.dll
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\refint\MMO RPG.dll
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.pdb
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\MMO RPG.genruntimeconfig.cache
+C:\Users\facei\example\src\MMO RPG\obj\Debug\net8.0\ref\MMO RPG.dll
